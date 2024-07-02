@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Sri Lanka Institute of Information Technology**
 - 🌱 I’m currently learning **BSC.Software Enginnering**
 
-- 📫 How to reach me **mohammedyaseerfathimasuhana@gmail.com**
+- 📫 How to reach me **yaseersuhana@gmail.com**
 
 
 ### 🛠 &nbsp;Languages and Tools:
